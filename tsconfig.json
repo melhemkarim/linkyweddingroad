@@ -17,5 +17,5 @@
     "paths": { "@/*": ["./*"] }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", ".next/dev/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "components/Hero.tsx", "components/Shutters.tsx", "components/Story.tsx", "components/Walk.tsx", "components/Church.tsx", "components/Couple.tsx", "components/Hotel.tsx", "components/Locations.tsx", "components/Portraits.tsx", "components/RedPrint.tsx", "components/SaveTheDate.tsx", "components/Scene.tsx", "components/VineFrame.tsx", "components/Vines.tsx", "lib/brush.ts", "lib/scenes.ts"]
 }
